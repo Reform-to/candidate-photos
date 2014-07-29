@@ -5,6 +5,12 @@ window.ENV.ELECTIONS.candidates = [{
   "full_name": "James Hinton",
   "avatar": "/img/100x125/H4CA05257.jpg"
 },{
+  "fec_id": "H4CA35049",
+  "district": "35",
+  "state": "CA",
+  "full_name": "Christina Gagnier",
+  "avatar": "/img/100x125/H4CA35049.jpg"
+},{
   "fec_id": "H4FL02070",
   "district": "02",
   "state": "FL",
