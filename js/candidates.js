@@ -5,6 +5,12 @@ window.ENV.ELECTIONS.candidates = [{
   "full_name": "Arthur Lieber",
   "avatar": "/img/100x125/H0MO02213.jpg"
 },{
+  "fec_id": "H0OK05155",
+  "district": "05",
+  "state": "OK",
+  "full_name": "Tom Guild",
+  "avatar": "/img/100x125/H0OK05155.jpg"
+},{
   "fec_id": "H4CA05257",
   "district": "05",
   "state": "CA",
