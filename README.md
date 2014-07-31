@@ -11,7 +11,7 @@ resized and converted to grayscale. Available in three sizes.
 
 ## Instructions
 
-Place a candidate image in `candidates/original` with named like `CANDIDATE_ID.jpg` using the candidae's individual FEC ID. You can crop the photo to make it a well-framed head shot.
+Place a candidate image in `candidates/original` named like `CANDIDATE_ID.jpg` using the candidate's individual FEC ID. You can crop the photo to make it a well-framed head shot.
 
 Run the script:
 
