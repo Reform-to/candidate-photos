@@ -47,6 +47,12 @@ window.ENV.ELECTIONS.candidates = [{
   "full_name": "Seth Moulton",
   "avatar": "/img/100x125/H4MA06090.jpg"
 },{
+  "fec_id": "H4MN06129",
+  "district": "06",
+  "state": "MN",
+  "full_name": "Joe Perske",
+  "avatar": "/img/100x125/H4MN06129.jpg"
+},{
   "fec_id": "H4NJ05135",
   "district": "05",
   "state": "NJ",
