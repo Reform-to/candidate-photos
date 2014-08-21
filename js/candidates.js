@@ -65,6 +65,12 @@ window.ENV.ELECTIONS.candidates = [{
   "full_name": "Jeffrey Kurzon",
   "avatar": "/img/100x125/H4NY07102.jpg"
 },{
+  "fec_id": "H4OH14102",
+  "district": "14",
+  "state": "OH",
+  "full_name": "Michael Wager",
+  "avatar": "/img/100x125/H4OH14102.jpg"
+},{
   "fec_id": "H4UT01108",
   "district": "01",
   "state": "UT",
