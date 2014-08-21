@@ -83,6 +83,12 @@ window.ENV.ELECTIONS.candidates = [{
   "full_name": "Jason Ritchie",
   "avatar": "/img/100x125/H4WA08121.jpg"
 },{
+  "fec_id": "H4WI07095",
+  "district": "07",
+  "state": "WI",
+  "full_name": "Kelly Westlund",
+  "avatar": "/img/100x125/H4WI07095.jpg"
+},{
   "fec_id": "S4NH00112",
   "district": "00",
   "state": "NH",
