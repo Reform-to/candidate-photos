@@ -89,6 +89,12 @@ window.ENV.ELECTIONS.candidates = [{
   "full_name": "Kelly Westlund",
   "avatar": "/img/100x125/H4WI07095.jpg"
 },{
+  "fec_id": "S4MA00259",
+  "district": "00",
+  "state": "MA",
+  "full_name": "Bruce Skarin",
+  "avatar": "/img/100x125/S4MA00259.jpg"
+},{
   "fec_id": "S4NH00112",
   "district": "00",
   "state": "NH",
