@@ -53,6 +53,12 @@ window.ENV.ELECTIONS.candidates = [{
   "full_name": "Paul Clements",
   "avatar": "/img/100x125/H4MI06105.jpg"
 },{
+  "fec_id": "H4MN02136",
+  "district": "02",
+  "state": "MN",
+  "full_name": "Paula Overby",
+  "avatar": "/img/100x125/H4MN02136.jpg"
+},{
   "fec_id": "H4MN06129",
   "district": "06",
   "state": "MN",
